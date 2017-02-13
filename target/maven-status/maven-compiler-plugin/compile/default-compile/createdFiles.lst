@@ -1,0 +1,6 @@
+com\le\user\RocketMqProducer.class
+com\le\user\SessionFactory.class
+com\le\user\RocketMqConsumer.class
+com\le\user\Converter.class
+com\le\user\Converter$1.class
+com\le\user\RocketMqConsumer$1.class
